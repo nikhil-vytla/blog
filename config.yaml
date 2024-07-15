@@ -2,7 +2,7 @@ baseURL: https://nikhilvytla.com/blog
 languageCode: en-us
 title: Nik's Blog
 copyright: "© [Nikhil Vytla](https://nikhilvytla.com)"
-theme: [hugo-PaperMod]
+theme: [PaperMod]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
