@@ -10,4 +10,4 @@ This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
 
-$ \pi = 3.1415926535 \dots $
+$\pi = 3.1415926535 \dots$
