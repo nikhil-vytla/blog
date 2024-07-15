@@ -80,24 +80,24 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Nik's Blog"
+    Title: "Welcome to Nik's Blog"
     Content: >
-      👋 Welcome to my blog!
+      Hi, I'm Nikhil, welcome to my corner of the internet! I'll be documenting my learnings, notes, and other random points of interest in this blog. In the real world, I research trustworthiness ML, LLM fairness, and AI for clinical decision making + health equity. Please note that this blog is an evergreen WIP.
 
 
   socialIcons:
     - name: github
       title: View Source on Github
       url: "https://github.com/nikhil-vytla"
-    - name: LinkedIn
+    - name: linkedin
       title: Connect with me on LinkedIn
       url: "https://www.linkedin.com/in/nikhil-vytla"
-    - name: X
-      title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-
+    - name: twitter
+      title: Find me on Twitter
+      url: "https://x.com/nikhilxvytla"
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    disabled: true
+    URL: "https://github.com/nikhil-vytla/blog/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
